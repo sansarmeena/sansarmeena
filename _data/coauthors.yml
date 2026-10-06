@@ -1,0 +1,6 @@
+# Co-author links used to hyperlink names on /publications/.
+# Format (key is the lower-case last name):
+# "bhuyan":
+#   - firstname: ["Kushanav", "K."]
+#     url: https://example.org
+{}

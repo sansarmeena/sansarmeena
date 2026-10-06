@@ -1,0 +1,834 @@
+# Photo memories, newest first. Photos live in assets/memories/<file>.jpg (+ -thumb.jpg).
+- date: '2026-09-01'
+  year: 2026
+  title: GEOS 2026 Symposium
+  place: Oslo, Norway
+  caption: Presenting NATURA at the NGI-hosted symposium on geohazards and climate resilience.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7500563349508648960/
+  photos:
+  - file: 2026-geos-oslo-01
+    w: 1080
+    h: 1080
+  - file: 2026-geos-oslo-02
+    w: 901
+    h: 1600
+  - file: 2026-geos-oslo-03
+    w: 901
+    h: 1600
+  - file: 2026-geos-oslo-04
+    w: 901
+    h: 1600
+- date: '2026-08-05'
+  year: 2026
+  title: NCPOR
+  place: Vasco da Gama, Goa, India
+  caption: Discussions on polar and ocean research at the National Centre for Polar and Ocean Research.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7490886876208381952/
+  photos:
+  - file: 2026-ncpor-goa-01
+    w: 1600
+    h: 1200
+  - file: 2026-ncpor-goa-02
+    w: 1600
+    h: 900
+  - file: 2026-ncpor-goa-03
+    w: 1600
+    h: 1200
+- date: '2026-08-04'
+  year: 2026
+  title: Amrita Vishwa Vidyapeetham
+  place: India
+  caption: Exchange on landslide monitoring and early warning during the OGS mission to India.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7490412505991737345/
+  photos:
+  - file: 2026-amrita-01
+    w: 1600
+    h: 1066
+  - file: 2026-amrita-02
+    w: 1600
+    h: 1066
+  - file: 2026-amrita-03
+    w: 1600
+    h: 1066
+  - file: 2026-amrita-04
+    w: 1600
+    h: 1066
+  - file: 2026-amrita-05
+    w: 1600
+    h: 1066
+- date: '2026-08-02'
+  year: 2026
+  title: CDMM, VIT Vellore
+  place: Vellore, India
+  caption: Visit to the Centre for Disaster Mitigation & Management with Silvia Ceramicola, as part of the OGS mission to India.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7489714763598372864/
+  photos:
+  - file: 2026-vit-vellore-01
+    w: 1600
+    h: 1200
+  - file: 2026-vit-vellore-02
+    w: 1600
+    h: 1200
+  - file: 2026-vit-vellore-03
+    w: 1600
+    h: 901
+- date: '2026-07-31'
+  year: 2026
+  title: GSI Geohazards Research and Management Centre
+  place: Kolkata, India
+  caption: OGS delegation to the Geological Survey of India headquarters.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7488973907157467136/
+  photos:
+  - file: 2026-gsi-kolkata-01
+    w: 1280
+    h: 960
+  - file: 2026-gsi-kolkata-02
+    w: 746
+    h: 420
+  - file: 2026-gsi-kolkata-03
+    w: 659
+    h: 439
+  - file: 2026-gsi-kolkata-04
+    w: 1280
+    h: 960
+- date: '2026-07-30'
+  year: 2026
+  title: Geological Survey of India
+  place: India
+  caption: OGS–GSI meeting on landslide forecasting, monitoring and Earth observation.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7488501425514123265/
+  photos:
+  - file: 2026-gsi-01
+    w: 1600
+    h: 1066
+  - file: 2026-gsi-02
+    w: 1600
+    h: 1066
+  - file: 2026-gsi-03
+    w: 1600
+    h: 1066
+  - file: 2026-gsi-04
+    w: 1600
+    h: 1066
+  - file: 2026-gsi-05
+    w: 1600
+    h: 900
+  - file: 2026-gsi-06
+    w: 1600
+    h: 901
+- date: '2026-07-27'
+  year: 2026
+  title: MoU between HPU and OGS
+  place: Shimla, India
+  caption: Signing a research agreement between Himachal Pradesh University and OGS for Himalayan hazard research.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7487606699219050496/
+  photos:
+  - file: 2026-hpu-mou-01
+    w: 1600
+    h: 1066
+  - file: 2026-hpu-mou-02
+    w: 1600
+    h: 1066
+  - file: 2026-hpu-mou-03
+    w: 1600
+    h: 1066
+  - file: 2026-hpu-mou-04
+    w: 1600
+    h: 1066
+  - file: 2026-hpu-mou-05
+    w: 1600
+    h: 1066
+- date: '2026-07-25'
+  year: 2026
+  title: ICED, IIT Roorkee
+  place: Roorkee, India
+  caption: Visit to the International Centre of Excellence for Dams.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7486840775637454848/
+  photos:
+  - file: 2026-iced-roorkee-01
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-02
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-03
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-04
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-05
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-06
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-07
+    w: 1600
+    h: 1066
+  - file: 2026-iced-roorkee-08
+    w: 1600
+    h: 1066
+- date: '2026-05-28'
+  year: 2026
+  title: New drone LiDAR platform
+  place: Italy
+  caption: First flights with the DJI Matrice 400 and Zenmuse L3 LiDAR for terrain and landslide mapping.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7465768835556683776/
+  photos:
+  - file: 2026-drone-lidar-01
+    w: 901
+    h: 1600
+  - file: 2026-drone-lidar-02
+    w: 901
+    h: 1600
+  - file: 2026-drone-lidar-03
+    w: 1600
+    h: 1066
+- date: '2026-05-09'
+  year: 2026
+  title: EGU General Assembly 2026
+  place: Vienna, Austria
+  caption: Presenting our AI4Landslide work.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7459008966346366976/
+  photos:
+  - file: 2026-egu-vienna-01
+    w: 1600
+    h: 742
+  - file: 2026-egu-vienna-02
+    w: 1600
+    h: 951
+  - file: 2026-egu-vienna-03
+    w: 1600
+    h: 1200
+- date: '2025-09-05'
+  year: 2025
+  title: GSI workshop on landslide disaster risk reduction
+  place: Dehradun, India
+  caption: Delegate at the workshop on science and governance for landslide risk in Uttarakhand.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7369721477761368068/
+  photos:
+  - file: 2025-gsi-dehradun-01
+    w: 1600
+    h: 900
+  - file: 2025-gsi-dehradun-02
+    w: 972
+    h: 1080
+  - file: 2025-gsi-dehradun-03
+    w: 1317
+    h: 1080
+  - file: 2025-gsi-dehradun-04
+    w: 1600
+    h: 900
+  - file: 2025-gsi-dehradun-05
+    w: 1600
+    h: 900
+- date: '2025-08-14'
+  year: 2025
+  title: Wadia Institute of Himalayan Geology
+  place: Dehradun, India
+  caption: Discussion on the August 2025 Dharali disaster with the WIHG Director.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7361832145629196288/
+  photos:
+  - file: 2025-wihg-dehradun-01
+    w: 1600
+    h: 900
+  - file: 2025-wihg-dehradun-02
+    w: 900
+    h: 1600
+- date: '2025-08-14'
+  year: 2025
+  title: Seminar at IISER Mohali
+  place: Mohali, India
+  caption: Invited seminar on AI-generated landslide inventories for hazard and risk management.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7361756371937103872/
+  photos:
+  - file: 2025-iiser-mohali-01
+    w: 1600
+    h: 739
+  - file: 2025-iiser-mohali-02
+    w: 739
+    h: 1600
+  - file: 2025-iiser-mohali-03
+    w: 1476
+    h: 1244
+- date: '2025-08-14'
+  year: 2025
+  title: Department of Geology visit
+  place: Dehradun, India
+  caption: Courtesy visit with colleagues from GSI and Uttarakhand.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7361637833272430592/
+  photos:
+  - file: 2025-dehradun-geology-01
+    w: 1280
+    h: 1002
+- date: '2025-07-03'
+  year: 2025
+  title: Chengdu University of Technology and SKLGP
+  place: Chengdu, China
+  caption: Research visit to the State Key Laboratory of Geohazard Prevention and Geoenvironment Protection.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7346439049068314625/
+  photos:
+  - file: 2025-chengdu-01
+    w: 1530
+    h: 1536
+  - file: 2025-chengdu-02
+    w: 1600
+    h: 900
+  - file: 2025-chengdu-03
+    w: 1600
+    h: 900
+  - file: 2025-chengdu-04
+    w: 1600
+    h: 900
+  - file: 2025-chengdu-05
+    w: 1600
+    h: 1106
+  - file: 2025-chengdu-06
+    w: 1600
+    h: 900
+  - file: 2025-chengdu-07
+    w: 1200
+    h: 1600
+  - file: 2025-chengdu-08
+    w: 1600
+    h: 900
+- date: '2025-04-30'
+  year: 2025
+  title: EGU General Assembly 2025
+  place: Vienna, Austria
+  caption: Presenting our work on AI-generated landslide inventories for hazard and risk management.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7323263723962318849/
+  photos:
+  - file: 2025-egu-vienna-01
+    w: 1600
+    h: 900
+  - file: 2025-egu-vienna-02
+    w: 1600
+    h: 899
+  - file: 2025-egu-vienna-03
+    w: 901
+    h: 1600
+  - file: 2025-egu-vienna-04
+    w: 1600
+    h: 900
+- date: '2025-03-04'
+  year: 2025
+  title: Drone fieldwork with the MISS-Lab
+  place: Italy
+  caption: Testing the DJI Matrice 350 and Zenmuse L2 LiDAR in the field with students of the research group.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7302784687473586176/
+  photos:
+  - file: 2025-drone-fieldwork-01
+    w: 1600
+    h: 1214
+  - file: 2025-drone-fieldwork-02
+    w: 1200
+    h: 1600
+  - file: 2025-drone-fieldwork-03
+    w: 1200
+    h: 1600
+- date: '2024-12-18'
+  year: 2024
+  title: IAEG 60th anniversary
+  place: CNR, Rome, Italy
+  caption: Invited talk on AI and remote sensing for landslide risk.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7275163415067701248/
+  photos:
+  - file: 2024-iaeg-rome-01
+    w: 1600
+    h: 1204
+- date: '2024-12-10'
+  year: 2024
+  title: AGU24
+  place: Washington, D.C., USA
+  caption: American Geophysical Union Annual Meeting.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7272220585361895424/
+  photos:
+  - file: 2024-agu-washington-01
+    w: 1200
+    h: 1600
+  - file: 2024-agu-washington-02
+    w: 1200
+    h: 1600
+  - file: 2024-agu-washington-03
+    w: 1200
+    h: 1600
+- date: '2024-11-06'
+  year: 2024
+  title: University of Bucharest
+  place: Bucharest, Romania
+  caption: Lecture on automated landslide mapping with deep learning at the Faculty of Geography.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7259875980964483073/
+  photos:
+  - file: 2024-bucharest-01
+    w: 1600
+    h: 901
+  - file: 2024-bucharest-02
+    w: 900
+    h: 1600
+  - file: 2024-bucharest-03
+    w: 1600
+    h: 901
+  - file: 2024-bucharest-04
+    w: 1600
+    h: 901
+- date: '2024-10-15'
+  year: 2024
+  title: Arqus workshop on geohazard characterization
+  place: Leipzig, Germany
+  caption: Multimethod and multiscale geohazard characterization workshop at the University of Leipzig.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7251914260270751745/
+  photos:
+  - file: 2024-arqus-leipzig-01
+    w: 1600
+    h: 1380
+  - file: 2024-arqus-leipzig-02
+    w: 1600
+    h: 1200
+  - file: 2024-arqus-leipzig-03
+    w: 1200
+    h: 1600
+  - file: 2024-arqus-leipzig-04
+    w: 1600
+    h: 1200
+  - file: 2024-arqus-leipzig-05
+    w: 1200
+    h: 1600
+  - file: 2024-arqus-leipzig-06
+    w: 1200
+    h: 1600
+  - file: 2024-arqus-leipzig-07
+    w: 1600
+    h: 1200
+- date: '2024-09-28'
+  year: 2024
+  title: Hosting Cees van Westen
+  place: Padova, Italy
+  caption: Prof. Cees van Westen (ITC, University of Twente) visiting the MISS-Lab.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7245749329812963329/
+  photos:
+  - file: 2024-van-westen-padova-01
+    w: 1200
+    h: 1600
+  - file: 2024-van-westen-padova-02
+    w: 1600
+    h: 1200
+  - file: 2024-van-westen-padova-03
+    w: 1600
+    h: 1200
+  - file: 2024-van-westen-padova-04
+    w: 1600
+    h: 1200
+- date: '2024-09-25'
+  year: 2024
+  title: 'Summer school: Mass Movements Under Climate Change'
+  place: Alpago, Belluno, Italy
+  caption: Taking students to the Tessina and Lamosano landslides.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7244786994411651073/
+  photos:
+  - file: 2024-summer-school-01
+    w: 1600
+    h: 1200
+  - file: 2024-summer-school-02
+    w: 1200
+    h: 1600
+  - file: 2024-summer-school-03
+    w: 1200
+    h: 1600
+  - file: 2024-summer-school-04
+    w: 1600
+    h: 1200
+  - file: 2024-summer-school-05
+    w: 1200
+    h: 1600
+  - file: 2024-summer-school-06
+    w: 1600
+    h: 1200
+- date: '2024-09-13'
+  year: 2024
+  title: Fieldwork with the MISS-Lab
+  place: Italian Alps
+  caption: Field days with the Machine Intelligence and Slope Stability Laboratory, University of Padova.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7240274229173116928/
+  photos:
+  - file: 2024-fieldwork-01
+    w: 1600
+    h: 900
+  - file: 2024-fieldwork-02
+    w: 900
+    h: 1600
+  - file: 2024-fieldwork-03
+    w: 1200
+    h: 1600
+  - file: 2024-fieldwork-04
+    w: 1200
+    h: 1600
+  - file: 2024-fieldwork-05
+    w: 1600
+    h: 1200
+  - file: 2024-fieldwork-06
+    w: 1200
+    h: 1600
+  - file: 2024-fieldwork-07
+    w: 1600
+    h: 900
+  - file: 2024-fieldwork-08
+    w: 1200
+    h: 1600
+- date: '2024-05-14'
+  year: 2024
+  title: Italy – South Korea workshop on landslides
+  place: Padova, Italy
+  caption: Workshop at the Department of Geosciences.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7196052187351834624/
+  photos:
+  - file: 2024-italy-korea-01
+    w: 1600
+    h: 1200
+- date: '2024-03-23'
+  year: 2024
+  title: Boston University
+  place: Boston, USA
+  caption: Visiting researcher at the Center for Remote Sensing, Department of Earth and Environment.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7177414088061272064/
+  - https://www.linkedin.com/feed/update/urn:li:activity:7196085183282876416/
+  photos:
+  - file: 2024-boston-01
+    w: 1026
+    h: 1280
+  - file: 2024-boston-02
+    w: 1200
+    h: 1600
+  - file: 2024-boston-03
+    w: 1137
+    h: 852
+  - file: 2024-boston-04
+    w: 1200
+    h: 1600
+  - file: 2024-boston-05
+    w: 1200
+    h: 1600
+- date: '2024-03-21'
+  year: 2024
+  title: Geomatics Engineering, IIT Roorkee
+  place: Roorkee, India
+  caption: Visit under the University of Padova – IIT Roorkee agreement.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7176720622784241664/
+  photos:
+  - file: 2024-iit-roorkee-01
+    w: 1600
+    h: 1200
+  - file: 2024-iit-roorkee-02
+    w: 1600
+    h: 1200
+  - file: 2024-iit-roorkee-03
+    w: 1600
+    h: 1200
+  - file: 2024-iit-roorkee-04
+    w: 1197
+    h: 1381
+- date: '2024-03-19'
+  year: 2024
+  title: National Institute of Disaster Management
+  place: New Delhi, India
+  caption: Visit and discussions on future collaboration.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7175913018059309056/
+  photos:
+  - file: 2024-nidm-01
+    w: 1345
+    h: 1536
+  - file: 2024-nidm-02
+    w: 1600
+    h: 1316
+  - file: 2024-nidm-03
+    w: 1600
+    h: 1027
+- date: '2024-03-18'
+  year: 2024
+  title: Amrita Vishwa Vidyapeetham, Amritapuri
+  place: Kerala, India
+  caption: Campus visit and landslide early-warning facilities.
+  category: visit
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7175282524791730176/
+  photos:
+  - file: 2024-amritapuri-01
+    w: 1600
+    h: 1066
+  - file: 2024-amritapuri-02
+    w: 1600
+    h: 1200
+  - file: 2024-amritapuri-03
+    w: 1600
+    h: 1200
+  - file: 2024-amritapuri-04
+    w: 1600
+    h: 1200
+  - file: 2024-amritapuri-05
+    w: 1600
+    h: 1200
+  - file: 2024-amritapuri-06
+    w: 1600
+    h: 1200
+  - file: 2024-amritapuri-07
+    w: 1600
+    h: 1068
+- date: '2023-11-14'
+  year: 2023
+  title: 6th World Landslide Forum
+  place: Florence, Italy
+  caption: Presenting at WLF6.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7130163038086705152/
+  photos:
+  - file: 2023-wlf-florence-01
+    w: 1600
+    h: 1200
+  - file: 2023-wlf-florence-02
+    w: 1200
+    h: 1600
+  - file: 2023-wlf-florence-03
+    w: 1200
+    h: 1600
+- date: '2023-10-30'
+  year: 2023
+  title: NATO Advanced Research Workshop
+  place: Adana, Türkiye
+  caption: Emerging technologies to enhance disaster resilience.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7124892876114640896/
+  photos:
+  - file: 2023-nato-adana-01
+    w: 768
+    h: 1024
+  - file: 2023-nato-adana-02
+    w: 1280
+    h: 714
+- date: '2023-02-26'
+  year: 2023
+  title: Student fieldwork
+  place: Italy
+  caption: Field trip with the Master's programme in Water and Geological Risk Engineering, University of Padova.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:7035732394225614848/
+  photos:
+  - file: 2023-student-fieldwork-01
+    w: 1600
+    h: 1200
+  - file: 2023-student-fieldwork-02
+    w: 1600
+    h: 900
+  - file: 2023-student-fieldwork-03
+    w: 1600
+    h: 900
+  - file: 2023-student-fieldwork-04
+    w: 1200
+    h: 1600
+  - file: 2023-student-fieldwork-05
+    w: 1600
+    h: 1200
+  - file: 2023-student-fieldwork-06
+    w: 1600
+    h: 1200
+- date: '2022-10-26'
+  year: 2022
+  title: UAV survey in Rocca Pietore
+  place: Belluno, Italy
+  caption: Three days of fieldwork in the area hit by windstorm Vaia, for the VAIA-LAND project.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6991017841860718593/
+  photos:
+  - file: 2022-rocca-pietore-01
+    w: 1600
+    h: 1066
+  - file: 2022-rocca-pietore-02
+    w: 1600
+    h: 1066
+  - file: 2022-rocca-pietore-03
+    w: 1600
+    h: 1066
+- date: '2022-09-12'
+  year: 2022
+  title: Taylor & Francis Remote Sensing Letters Award
+  place: National Space Centre, Leicester, UK
+  caption: Receiving the award at the RSPSoc annual conference.
+  category: award
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6975074044765200384/
+  photos:
+  - file: 2022-rsl-award-01
+    w: 1600
+    h: 1141
+  - file: 2022-rsl-award-02
+    w: 1200
+    h: 1600
+  - file: 2022-rsl-award-03
+    w: 1200
+    h: 1600
+- date: '2022-05-28'
+  year: 2022
+  title: EGU General Assembly 2022
+  place: Vienna, Austria
+  caption: Co-chairing session NH3.6 on space and time forecasting of landslides, with the MISS-Lab team.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6936242819569229825/
+  photos:
+  - file: 2022-egu-vienna-01
+    w: 1600
+    h: 1200
+- date: '2022-02-02'
+  year: 2022
+  title: Fieldwork in Alpago
+  place: Belluno, Italy
+  caption: Inspecting landslides triggered by the Vaia storm and the December 2020 event.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6894739346239340544/
+  - https://www.linkedin.com/feed/update/urn:li:activity:6901848359326273537/
+  photos:
+  - file: 2022-alpago-01
+    w: 1280
+    h: 960
+  - file: 2022-alpago-02
+    w: 1200
+    h: 1600
+  - file: 2022-alpago-03
+    w: 1200
+    h: 1600
+  - file: 2022-alpago-04
+    w: 1200
+    h: 1600
+  - file: 2022-alpago-05
+    w: 768
+    h: 1024
+  - file: 2022-alpago-06
+    w: 1280
+    h: 960
+  - file: 2022-alpago-07
+    w: 768
+    h: 1024
+  - file: 2022-alpago-08
+    w: 1200
+    h: 1600
+  - file: 2022-alpago-09
+    w: 1200
+    h: 1600
+  - file: 2022-alpago-10
+    w: 1280
+    h: 960
+  - file: 2022-alpago-11
+    w: 1280
+    h: 960
+  - file: 2022-alpago-12
+    w: 1200
+    h: 1600
+- date: '2021-10-16'
+  year: 2021
+  title: Rockslide on the road to Kedarnath
+  place: NH 107 near Guptkashi, Uttarakhand, India
+  caption: A rockslide blocking the national highway.
+  category: fieldwork
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6854998690306830336/
+  photos:
+  - file: 2021-kedarnath-01
+    w: 958
+    h: 1280
+  - file: 2021-kedarnath-02
+    w: 1280
+    h: 958
+  - file: 2021-kedarnath-03
+    w: 1200
+    h: 1600
+- date: '2019-07-03'
+  year: 2019
+  title: GI_Forum 2019
+  place: Salzburg, Austria
+  caption: Keynote by Josef Aschbacher, ESA Director of Earth Observation.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6552112978110578688/
+  photos:
+  - file: 2019-gi-forum-01
+    w: 1600
+    h: 1200
+  - file: 2019-gi-forum-02
+    w: 1600
+    h: 1200
+- date: '2018-10-25'
+  year: 2018
+  title: GIScience Symposium
+  place: ''
+  caption: With Michael F. Goodchild after his presentation.
+  category: conference
+  linkedin:
+  - https://www.linkedin.com/feed/update/urn:li:activity:6461233588418514944/
+  photos:
+  - file: 2018-giscience-01
+    w: 1280
+    h: 960
+  - file: 2018-giscience-02
+    w: 1280
+    h: 720
