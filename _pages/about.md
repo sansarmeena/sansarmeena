@@ -27,7 +27,7 @@ latest_posts:
 
 Ciao! 👋
 
-I am a geoinformatics researcher from India working on **artificial intelligence for geohazards**. I build deep-learning models that map landslides and their impacts from satellite and aerial imagery, train Earth-observation **foundation models** on large unlabelled image archives, and use satellite radar, including the new NASA–ISRO **NISAR** mission, to measure how slopes move before and after they fail.
+I am a geoinformatics researcher from India working on **artificial intelligence for geohazards**. I build deep-learning models that map landslides and their impacts from satellite and aerial imagery, train Earth-observation **foundation models** on large unlabelled image archives, and use satellite radar, including the new NASA–ISRO **NISAR** mission, to measure how slopes move before and after they fail. I am included in the 2026 edition of the Stanford University–Elsevier list of the world's top 2 % most-cited scientists (single-year impact).
 
 At <a href='https://www.ogs.it/en'>OGS</a> in Trieste I am the Principal Investigator of <a href='https://www.ogs.it/en/projects/natura'><b>NATURA</b></a>, a five-year Starting Grant of the Italian Science Fund (FIS 3, 2026–2031) that combines AI, physically based modelling and socio-economic analysis to understand the natural and anthropogenic drivers of landslide risk in mountain regions.
 
