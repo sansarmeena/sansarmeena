@@ -68,6 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-on-egusphere-nisar-pixel-offsets-measure-but-do-not-statistically-resolve-pre-failure-motion-at-the-26-august-2026-bhote-koshi-ice-rock-avalanche-nepal",
           title: 'New preprint on EGUsphere: NISAR pixel offsets measure but do not statistically resolve...',
           description: "",
+          section: "News",},{id: "news-included-in-the-2026-edition-of-the-stanford-university-elsevier-list-of-the-world-s-top-2-most-cited-scientists-single-year-impact-trophy",
+          title: 'Included in the 2026 edition of the Stanford University–Elsevier list of the world’s...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
